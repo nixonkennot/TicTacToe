@@ -1,4 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
+//tictactoe
 string[] grid = new string[9] { "1", "2", "3", "4", "5", "6", "7", "8", "9" }; //String array called grid with the size of up to 9
 bool isPlayer1Turn = true;
 int numTurns = 0;
